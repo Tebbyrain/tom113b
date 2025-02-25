@@ -8,5 +8,8 @@
 - [EX01-02](EX01_02_BMI.ipynb)
 - [EX01-03](EX01_03_Rock_Paper_Scissors.ipynb)
 - [EX01-04](EX01_04_終極密碼.ipynb)
+- [EX01-05](EX01_05_Caesar_Cipher_Encode_and_decode.ipynb)
+- [EX01-06]
+- [EX01-07]
 
 ##02 Web Crawler
