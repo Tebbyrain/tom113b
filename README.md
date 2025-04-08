@@ -20,3 +20,9 @@
 - [EX02-05](EX02_05_PTT_Gossiping.ipynb)
 - [EX02-06](EX02_06_開眼電影.ipynb)
 - [EX02-07](EX02_07_KKDay.ipynb)
+
+##03 Data Analysis
+- [EX03-01](EX03_01_公司薪資概況Ⅰ.ipynb)
+- [EX03-02]
+- [EX03-03]
+- [EX03-04]
