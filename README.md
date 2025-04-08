@@ -17,3 +17,6 @@
 - [EX02-02](EX02_02_高雄紅橘線捷運車站位置查詢.ipynb)
 - [EX02-03](EX02_03.ipynb)
 - [EX02-04](EX02_04_Download_Pokemon_Images.ipynb)
+- [EX02-05]
+- [EX02-06]
+- [EX02-07]
