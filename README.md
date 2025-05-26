@@ -26,3 +26,14 @@
 - [EX03-02](EX03_02_公司薪資概況Ⅱ.ipynb)
 - [EX03-03](EX03_03_空氣品質指標(AQI).ipynb)
 - [EX03-04](EX03_04_薪情平台.ipynb)
+- [EX03-05](EX03_05_台灣股票市場個股每日成交資訊.ipynb)
+- [EX03-06](EX03_06_出生人口數.ipynb)
+
+##04 Machine Learning
+- [EX04-01](EX04_01_汽車車型數值資料轉換.ipynb)
+
+##05 Web API
+- [EX05-01](EX05_01_Echo_Bot.ipynb)
+- [EX05-02](EX05_02_Ask_Gemini.ipynb)
+- [EX05-03](EX05_03_Reply_Multi_type_Messages.ipynb)
+- [EX05-04](EX05_04_Reply_Template_Messages.ipynb)
