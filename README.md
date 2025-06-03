@@ -31,6 +31,12 @@
 
 ##04 Machine Learning
 - [EX04-01](EX04_01_汽車車型數值資料轉換.ipynb)
+- [EX04-02](EX04_02_客戶基本資料編碼.ipynb)
+- [EX04-03](EX04_03_客戶分群.ipynb)
+- [EX04-04]
+- [EX04-05]
+- [EX04-06]
+- [EX04-07]
 
 ##05 Web API
 - [EX05-01](EX05_01_Echo_Bot.ipynb)
