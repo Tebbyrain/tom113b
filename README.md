@@ -28,6 +28,7 @@
 - [EX03-04](EX03_04_薪情平台.ipynb)
 - [EX03-05](EX03_05_台灣股票市場個股每日成交資訊.ipynb)
 - [EX03-06](EX03_06_出生人口數.ipynb)
+- [EX03-07](EX03_07_Tips)
 
 ##04 Machine Learning
 - [EX04-01](EX04_01_汽車車型數值資料轉換.ipynb)
